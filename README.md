@@ -74,6 +74,5 @@ pip install flask langchain ollama pypdf faiss-cpu
 - Implement authentication for user sessions
 - Improve UI with better styling and interactivity
 
-## License
-This project is open-source and available under the MIT License.
+
 
